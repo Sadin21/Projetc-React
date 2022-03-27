@@ -1,0 +1,63 @@
+.card{
+  width: 35%;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow:
+    3.3px 2px 5.3px rgba(0, 0, 0, 0.032),
+    11.2px 6.7px 17.9px rgba(0, 0, 0, 0.048),
+    50px 30px 80px rgba(0, 0, 0, 0.08)
+  ;
+}
+.card h1{
+  font-weight: 200;
+  color: #aaa;
+  margin: 20px 30px 0 30px;
+}
+.card p{
+  margin: 0 30px;
+}
+.card hr{
+  width: 90%;
+  margin: 10PX auto;
+}
+.card .container-list {
+  margin: 10px 0 0 30px;
+}
+.card button{
+  width: 425px;
+  height: 50px;
+  margin: 30px 30px;
+  background-color: rgb(49, 126, 199);
+  border: none;
+  color: white;
+}
+.card button:hover{
+  background-color: red;
+}
+
+/* LATIHAN */
+.table tr{
+  width: 40%;
+}
+.table td, .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.table tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+.table tr:hover {
+  background-color: #ddd;
+}
+.table th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+.buah form{
+  margin-top: 50px;
+  
+}
+
